@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463758569722",
+    "project_id": "tsitatnik-ed3c4",
+    "storage_bucket": "tsitatnik-ed3c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463758569722:android:45c28cb437c575e4e19943",
+        "android_client_info": {
+          "package_name": "com.example.tsitatnik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeCVjKK751rYEDxAtlLFrBEegVgxCO7Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
